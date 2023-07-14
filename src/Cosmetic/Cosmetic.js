@@ -1,12 +1,14 @@
 import React from 'react';
 import './Cosmetic.css'
+import { addToDB } from '../utilities/fakedb';
 
 
 const Cosmetic = (props) => {
     const {name, balance, id} = props.cosmetic;
     const addToCart = (id) =>{
         // console.log('Item added', id);
-        localStorage.setItem(id, 1);
+        // localStorage.setItem(id, 1);
+        addToDB(id)
     }
 
     const addCartWithParam = () => addToCart(id);
