@@ -1,0 +1,80 @@
+[
+    {
+      "id": "64b01c7f3030ecbce3137afe",
+      "balance": "$2,812.88",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "brown",
+      "name": "Roberts Bruce",
+      "gender": "male",
+      "company": "COMTEST",
+      "email": "robertsbruce@comtest.com",
+      "phone": "+1 (856) 593-3042",
+      "address": "549 Vine Street, Flintville, Virginia, 4517"
+    },
+    {
+      "id": "64b01c7f75ceb2be524b55cb",
+      "balance": "$1,485.24",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "blue",
+      "name": "Boyle Levine",
+      "gender": "male",
+      "company": "EXTRAGEN",
+      "email": "boylelevine@extragen.com",
+      "phone": "+1 (868) 458-2985",
+      "address": "900 Prince Street, Elrama, Louisiana, 9574"
+    },
+    {
+      "id": "64b01c7f20c5c6551c22b383",
+      "balance": "$3,619.43",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "blue",
+      "name": "Rivera Cox",
+      "gender": "male",
+      "company": "KINDALOO",
+      "email": "riveracox@kindaloo.com",
+      "phone": "+1 (973) 574-2335",
+      "address": "484 Beach Place, Riceville, American Samoa, 9358"
+    },
+    {
+      "id": "64b01c7fa7fd9d9b8a8c6d44",
+      "balance": "$1,626.81",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "blue",
+      "name": "Maureen Norris",
+      "gender": "female",
+      "company": "SONIQUE",
+      "email": "maureennorris@sonique.com",
+      "phone": "+1 (881) 419-2185",
+      "address": "867 Bokee Court, Williamson, North Carolina, 294"
+    },
+    {
+      "id": "64b01c7ff6746d56930962d5",
+      "balance": "$2,216.81",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Kristina Roach",
+      "gender": "female",
+      "company": "TERRAGO",
+      "email": "kristinaroach@terrago.com",
+      "phone": "+1 (834) 501-3808",
+      "address": "441 Riverdale Avenue, Boomer, South Carolina, 919"
+    },
+    {
+      "id": "64b01c7f06348c8be4b80ae7",
+      "balance": "$1,690.36",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "brown",
+      "name": "Wilkins Jefferson",
+      "gender": "male",
+      "company": "BLUEGRAIN",
+      "email": "wilkinsjefferson@bluegrain.com",
+      "phone": "+1 (984) 430-3864",
+      "address": "460 Bartlett Street, Berwind, Connecticut, 1524"
+    }
+  ]
